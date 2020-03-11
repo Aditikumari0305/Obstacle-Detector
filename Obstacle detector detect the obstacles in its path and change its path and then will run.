@@ -1,0 +1,2 @@
+# Obstacle-Detector
+In this we used Atmega-16 and I.R. sensors. The bot will run but as it comes near the obstsacles it detects the obstacles and change its path
